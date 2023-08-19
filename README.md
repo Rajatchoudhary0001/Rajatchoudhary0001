@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Choudhary</h1>
-<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200vw" />
 
 <h3 align="left">
 
